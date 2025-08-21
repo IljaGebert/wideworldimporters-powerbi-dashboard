@@ -29,7 +29,7 @@ The goal is to analyze key sales metrics and visualize business performance thro
 
 ## Dashboard
 
-!(/dashboard.png)
+!(dashboard.png)
 
 ---
 
