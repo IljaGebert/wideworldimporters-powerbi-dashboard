@@ -29,14 +29,15 @@ The goal is to analyze key sales metrics and visualize business performance thro
 
 ## Dashboard
 
-!(./dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
 ## How to Use
-1. Download [`wideworldimporters_sales_dashboard.pbix`](wideworldimporters_sales_dashboard.pbix).  
+1. Download the Power BI file from Google Drive:  
+   [wideworldimporters_sales_dashboard.pbix](https://drive.google.com/file/d/1TVqNwZZQfkTBThnXqen8Y-REBAIAEjE_)
 2. Open the file with **Power BI Desktop** (free).  
-3. Explore the interactive dashboard using slicers for **Year**, **City**, and **Customer Category**.  
+3. Explore the interactive dashboard using slicers for **Year**, **City**, and **Customer Category**.
 
 ---
 
